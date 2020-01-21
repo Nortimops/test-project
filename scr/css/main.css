@@ -6,3 +6,12 @@
     font-size: 32px;
     font-family: sans-serif;
 }
+
+.content{
+    padding: 80px 100px ;
+    background: #4cff8d;
+    text-align: center;
+    font-size: 32px;
+    font-family: sans-serif;
+    color: white;
+}
